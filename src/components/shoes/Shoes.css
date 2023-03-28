@@ -1,0 +1,13 @@
+.shoe-container {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    margin-top: 20px;
+    margin-left: 30px;
+
+}
+
+.products-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px
+}
